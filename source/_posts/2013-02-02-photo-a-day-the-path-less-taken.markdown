@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Path Less Taken"
+title: "Photo A Day: The Path Less Taken"
 date: 2013-02-02 23:24
 comments: true
 categories: [photo a day, photography, san francisco]
