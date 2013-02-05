@@ -6,8 +6,8 @@ comments: true
 categories: [photo a day, photography, sports]
 ---
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-03/F1000009.jpg %}
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-03/F1000011.jpg %}
+{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-03/F1000009.jpg 800 %}
+{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-03/F1000011.jpg 800 %}
 
 Today is the big day when America practically shuts down and tune in for the grand finale of the football season. The spectacle called Super Bowl averages a viewership of over 110 million people, and TV ad spots during the game sell for an average of 3.7 to 3.8 million dollars for each 30 seconds.
 

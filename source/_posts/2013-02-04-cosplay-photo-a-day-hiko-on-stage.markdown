@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography]
 ---
 
-![HIKO on Stage](http://static.rickypai.com/blog/2013/photo-a-day/2013-02-04/D3P_3626.jpg)
+{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-04/D3P_3626.jpg 800 %}
 
 Usually in photography, I take the role of an unilateral observer documenting the world; however, half of my work are portraitures, staged performances involving other players trying to convey a specific concept. Of those, many are of what is called cosplay, in which individuals dress up to portray various characters and recreate fictional scenes.
 

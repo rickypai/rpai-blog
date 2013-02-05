@@ -6,7 +6,7 @@ comments: true
 categories: [photo a day, photography, wedding]
 ---
 
-![Happiest Day of Yukie's Life](http://static.rickypai.com/blog/2013/photo-a-day/2013-02-01-happiest-day/D3P_9399.jpg)
+{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-01-happiest-day/D3P_9399.jpg 800 %}
 
 Having a blog is one thing, maintaining is another. While this blog has been up for about two weeks, I have struggled to add contents to it. The self-censorship is still at work, but most of the time laziness is to blame. The best way, I figured, is to make a daily routine of posting.
 

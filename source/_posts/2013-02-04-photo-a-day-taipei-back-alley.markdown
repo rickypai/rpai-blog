@@ -6,7 +6,7 @@ comments: true
 categories: [photo a day, photography, taipei, taiwan]
 ---
 
-![Taipei Back Alley](http://static.rickypai.com/blog/2013/photo-a-day/2013-02-04/D3P_7136.jpg)
+{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-04/D3P_7136.jpg 800 %}
 
 I don't have much to say today as it has been a long day and I have already exhausted the last remaining bits of my brain juice on the [inaugural post](/blog/2013/02/04/cosplay-photo-a-day-hiko-on-stage/) of a new parallel series [Cosplay Photo a Day](/blog/categories/cosplay-photo-a-day/).
 

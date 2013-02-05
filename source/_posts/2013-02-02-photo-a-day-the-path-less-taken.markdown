@@ -6,7 +6,7 @@ comments: true
 categories: [photo a day, photography, san francisco, california]
 ---
 
-![The Path Less Taken](http://static.rickypai.com/blog/2013/photo-a-day/2013-02-02/DSCF2593.jpg)
+{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-02/DSCF2593.jpg 800 %}
 
 There are always clearly defined paths in life, ones that are thought to be optimal. Thought to be optimal because of their predictable outcomes, but it is often the path less taken that makes life truly worth living.
 

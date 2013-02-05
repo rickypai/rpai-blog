@@ -22,4 +22,4 @@ This meetup only reaffirms that my decision to move back to AMURICA is more than
 
 Oh if anyone at the meetup got my card which I stupidly forgot to put an e-mail address on, my e-mail is [rickyp999@gmail.com](mailto:rickyp999@gmail.com).
 
-![github drinkup](http://static.rickypai.com/blog/2013/virgin-trip-to-a-github-drinkup/DSCF2336.jpg)
+{% img http://static.rickypai.com/blog/2013/virgin-trip-to-a-github-drinkup/DSCF2336.jpg 800 %}
