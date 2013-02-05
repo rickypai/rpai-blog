@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Cosplay Photo a Day: 02/05/2013"
+date: 2013-02-05 09:57
+comments: true
+categories: [cosplay photo a day, cosplay, cosplay photography, photography, panty and stocking, panty, stocking]
+---
+
+{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-05/D3P_4392.jpg 800 %}
+
+There a few reasons why I chose this photo:
+
+- It is edited
+- It is already on my computer
+- It has never been uploaded by me, I think
+- It is one of the few cosplay photos in landscape orientation, as I have not really settled with a good layout for photos in portrait orientation
+
+And above all, my next flight to Tokyo that is about to start boarding. By the time I am on the ground again, it will be February 6 already.
+
+I will edit a fresh photo on the flight, so fresh that even the cosplayer has not seen it before.
+
+See you in Tokyo.

@@ -3,7 +3,7 @@ layout: post
 title: "Cosplay Photo a Day: HIKO on Stage"
 date: 2013-02-04 22:45
 comments: true
-categories: [cosplay photo a day, cosplay, cosplay photography, photography]
+categories: [cosplay photo a day, cosplay, cosplay photography, photography, vocaloid, megurine luka]
 ---
 
 {% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-04/D3P_3626.jpg 800 %}
