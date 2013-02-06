@@ -3,7 +3,7 @@ layout: post
 title: "Cosplay Photo a Day: 02/05/2013"
 date: 2013-02-05 09:57
 comments: true
-categories: [cosplay photo a day, cosplay, cosplay photography, photography, panty and stocking, panty, stocking]
+categories: [cosplay photo a day, cosplay, cosplay photography, photography, Panty and Stocking, Panty, Stocking]
 ---
 
 {% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-05/D3P_4392.jpg 800 %}

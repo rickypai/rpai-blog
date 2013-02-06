@@ -3,7 +3,7 @@ layout: post
 title: "Photo A Day: The Path Less Taken"
 date: 2013-02-02 23:24
 comments: true
-categories: [photo a day, photography, san francisco, california]
+categories: [photo a day, photography, San Francisco, California]
 ---
 
 {% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-02/DSCF2593.jpg 800 %}

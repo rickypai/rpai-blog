@@ -3,7 +3,7 @@ layout: post
 title: "Photo a Day: Alternative Aviation"
 date: 2013-02-05 08:09
 comments: true
-categories: [photo a day, photography, kenya, aviation]
+categories: [photo a day, photography, Kenya, aviation]
 ---
 
 {% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-05/D3P_1438.jpg 800 %}

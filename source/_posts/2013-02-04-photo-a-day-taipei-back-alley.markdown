@@ -3,7 +3,7 @@ layout: post
 title: "Photo a Day: Taipei Back Alley"
 date: 2013-02-04 23:22
 comments: true
-categories: [photo a day, photography, taipei, taiwan]
+categories: [photo a day, photography, Taipei, Taiwan]
 ---
 
 {% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-04/D3P_7136.jpg 800 %}
