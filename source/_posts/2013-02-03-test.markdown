@@ -1,9 +1,0 @@
----
-layout: post
-title: "test"
-date: 2013-02-03 12:17
-comments: true
-categories: 
----
-
-{% img img-p http://rickypai.s3.amazonaws.com/temp/D3P_9121-Edit.jpg 500 test test %}
