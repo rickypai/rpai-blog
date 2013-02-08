@@ -17,6 +17,6 @@ I recently read an article that [football teams perform better when they listen 
 
 Another reason why AMURICA is amazing.
 
-Talks aside, the photos were of a sporting event of a much smaller level, the 2006 homecoming football game from my alma mater Northwestern University. The first was a classmate putting on war paint of the school color purple, and the second is us distracting the opponent's play by ringing keys.
+Talks aside, the photos were of a sporting event of a much smaller level, the 2006 homecoming football game from my alma mater Northwestern University. The first was a classmate putting on war paint of the school color purple, and the second was us distracting the opponent's play by ringing keys.
 
 As for the game today, unfortunately, the team I was supporting, the San Francisco 49ers, lost by a thin margin, but it was still an enjoyable experience to crowd around TV, drink beer, and enjoy the dramatic turns of events.
