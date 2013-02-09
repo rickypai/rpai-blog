@@ -16,4 +16,4 @@ What would happen a lot is, I met someone for the first time at an event, which 
 
 Looking back into the archives, this occurred on so many occasions in 2010 to the point that I think the year was somehow doped with illegal substances. The year was also odd in the sense that, it also had the most number of shoots that went unposted. I guess it took a lot of mediocrity to balance with all the miracles.
 
-The photo is of 花鯨 as Holo from Spice and Wolf. Just like most other unexpected shots, I either never work with the subject again or can't find the same mojo. That's what make those images even more precious.
+The photo is of 花鯨 (TW) as Holo from Spice and Wolf. Just like most other unexpected shots, I either never work with the subject again or can't find the same mojo. That's what make those images even more precious.
