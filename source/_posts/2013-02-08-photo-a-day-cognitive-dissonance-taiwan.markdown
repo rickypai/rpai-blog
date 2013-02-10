@@ -3,12 +3,12 @@ layout: post
 title: "Photo a Day: Cognitive Dissonance in Taiwan"
 date: 2013-02-08 06:40
 comments: true
-categories: [photo a day, photography, travel, Keelung, Taiwan]
+categories: [photo a day, photography, food, travel, Keelung, Taiwan]
 ---
 
 {% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-08/D3P_8266.jpg 800 %}
 
-Taiwan is an odd place. Just now, I rode taxi to a dental checkup, only to realize the taxi bill was nearly double of the dental co-pay. What was odder was being complimented for good oral maintenance for the first time in my life, an extraordinary feat considering my toothbrush is supposed to last only a flight from Singapore Airlines' in-flight amenities kit. I can only attribute my oral success to the Japanese toothpastes I've been using. 
+Taiwan is an odd place. Just now, I rode taxi to a dental checkup, only to realize the taxi bill was nearly double of the dental co-pay. What was odder was being complimented for good oral maintenance for the first time in my life, an extraordinary feat considering my toothbrush is supposed to last only a flight from Singapore Airlines' in-flight amenities kit. I can only attribute my oral success to the Japanese toothpastes I've been using.
 
 I suppose part of it is also the fear of going to dentist. Not that dentists are particularly scary, but rather they are just prohibitively expensive to visit in AMURICA. I actually speculate the extraordinary convenience and affordability of Taiwanese healthcare might encourage less healthy lifestyle, as cheap doctor visits are always right down the street.
 
