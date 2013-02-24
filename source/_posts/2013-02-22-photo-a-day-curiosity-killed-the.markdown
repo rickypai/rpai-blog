@@ -8,7 +8,7 @@ categories: [photo a day, photography, dogs, cats, animals]
 
 {% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-22/%5B20070830%5DThailandDay4_0232.jpg 500 %}
 
-Cats are such odd creatures. Sometimes, you can stick a lens up to their nose and they won't move an inch. Other times, you just sit ther with your camera, and they naturally gravitate toward you, giving the best eye contact.
+Cats are such odd creatures. Sometimes, you can stick a lens up to their nose and they won't move an inch. Other times, you just sit there with your camera, and they naturally gravitate toward you, giving the best eye contact.
 
 Dogs, on the other hand, are almost always in a hyperventilated state when you try to photograph them. So unless you tempt them with the prospect of treats, they will just roam around drolling happiness allover the place. Even should you bribe them, their eye contact is fixated on the treat while making the hungriest derp expressions.
 
