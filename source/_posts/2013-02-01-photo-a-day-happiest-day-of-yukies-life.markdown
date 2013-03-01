@@ -3,7 +3,7 @@ layout: post
 title: "Photo A Day: Happiest Day of Yukie's Life"
 date: 2013-02-01 15:03
 comments: true
-categories: [photo a day, photography, wedding]
+categories: [photo a day, photography, wedding, couple]
 ---
 
 {% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-01-happiest-day/D3P_9399.jpg 800 %}
