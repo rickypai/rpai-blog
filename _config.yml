@@ -4,7 +4,7 @@
 
 url: http://rickypai.com
 title: Ricky's Ramblings
-subtitle: 
+subtitle:
 author: Ricky Pai
 simple_search: http://google.com/search
 description:
@@ -65,7 +65,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: rickypaipie
-twitter_tweet_count: 4
+twitter_tweet_count: 0
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
