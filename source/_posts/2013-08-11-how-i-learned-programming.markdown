@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Learn Programming"
+title: "How I Learned Programming"
 date: 2013-08-11 15:40
 comments: true
 categories: [web development, learning]
