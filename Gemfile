@@ -15,6 +15,7 @@ group :development do
   gem 'liquid', '~> 2.3.0'
 end
 
+gem 'jekyll-press'
 gem 'sinatra', '~> 1.3.3'
 
 # gem "therubyracer"
