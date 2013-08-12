@@ -1,0 +1,30 @@
+{% if site.facebook_user %}
+  <a class="facebook" href="http://www.facebook.com/{{ site.facebook_user }}" title="Facebook">
+    <i class="icon-facebook icon-large"></i>
+  </a>
+{% endif %}
+{% if site.google_plus_user %}
+  <a class="google" href="https://plus.google.com/{{ site.googleplus_user }}?rel=author" title="Google+">
+    <i class="icon-google-plus-sign icon-large"></i>
+  </a>
+{% endif %}
+{% if site.twitter_user %}
+  <a class="twitter" href="http://twitter.com/{{ site.twitter_user }}" title="Twitter">
+    <i class="icon-twitter icon-large"></i>
+  </a>
+{% endif %}
+{% if site.github_user %}
+  <a class="github" href="https://github.com/{{ site.github_user }}" title="GitHub">
+    <i class="icon-github icon-large"></i>
+  </a>
+{% endif %}
+{% if site.linkedin_user %}
+  <a class="linkedin" href="http://www.linkedin.com/in/{{ site.linkedin_user }}" title="LinkedIn">
+    <i class="icon-linkedin-sign icon-large"></i>
+  </a>
+{% endif %}
+{% if site.subscribe_rss %}
+  <a class="rss" href="{{ site.subscribe_rss }}" title="RSS">
+    <i class="icon-rss icon-large"></i>
+  </a>
+{% endif %}

@@ -1,13 +1,22 @@
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
-{% include head.html %}
+
+<!DOCTYPE HTML>
+<html>
+<head>
+  {% include head.html %}
+</head>
 
 <body>
-	<header id="header" class="inner">{% include header.html %}</header>
-	{% unless page.banner == false %}
-		{% include banner.html %}
-	{% endunless %}
-	<div id="content" class="inner">{{ content | expand_urls: root_url }}</div>
-	<footer id="footer" class="inner">{% include footer.html %}</footer>
-	{% include after_footer.html %}
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 main-menu">
+        {% include main_menu.html %}
+      </div>
+      <div class="col-lg-9">
+        {{ content | expand_urls: root_url }}
+      </div>
+    </div>
+  </div>
 </body>
+{% include after_body.html %}
 </html>
