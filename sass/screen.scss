@@ -28,8 +28,14 @@ article.post {
 
 .article-content {
   img {
-    width: 100%;
-    // max-width: 800px;
+    max-width: 100%;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+
+    &.portrait {
+      max-width: 500px;
+    }
   }
 }
 
