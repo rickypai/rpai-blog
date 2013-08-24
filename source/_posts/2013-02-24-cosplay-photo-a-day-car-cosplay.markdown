@@ -6,7 +6,7 @@ comments: true
 categories:  [cosplay photo a day, cosplay, cosplay photography, photography, vehicle]
 ---
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-25/DSCF4210.jpg 800 %}
+{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-24/DSCF4210.jpg 800 %}
 
 Not entirely sure if this counts as cosplay, but it is of cars 'dressing up' to express other characters. Perhaps it is more of a car alternative fashion, but whatever.
 
