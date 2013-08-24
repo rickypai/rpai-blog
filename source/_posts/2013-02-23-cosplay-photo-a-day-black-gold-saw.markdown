@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography, Black Gold Saw, Black Rock Shooter]
 ---
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-23/D3P_9121.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-23/D3P_9121.jpg %}
 
 This was the first shoot I did after about a year long hiatus in Taiwan. Now looking back, despite being so close with the numerous prolific cosplayers in the area, I really blanked out an entire year of shooting due to work. I was too glad when I finally had the chance to pick up my camera again.
 

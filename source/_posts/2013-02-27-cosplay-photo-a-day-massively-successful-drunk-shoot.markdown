@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography, Akita Neru, VOCALOID]
 ---
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-27/D3P_1994.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-27/D3P_1994.jpg %}
 
 I don't usually shoot drunk, but when I do...
 

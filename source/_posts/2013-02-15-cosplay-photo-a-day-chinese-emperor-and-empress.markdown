@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography, Diaochan, Dynasty Warriors, HIKO]
 ---
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-15/DSCF2930.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-15/DSCF2930.jpg %}
 
 Had a photoshoot with [HIKO](/blog/categories/hiko/) for the first time today! She is crazy fun to work with!
 

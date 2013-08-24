@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography, League of Legends, Ahri]
 ---
 
-{% img img-p http://static.rickypai.com/blog/2013/photo-a-day/2013-02-06/D3P_0612.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-06/D3P_0612.jpg %}
 
 This was a fun shot to edit, featuring MINORI (TW) cosplaying as Ahri from League of Legends. This was my first time working with her, and I must say she is quite amazing at portraying the character: she really nailed the subtle expression to convey the slyness of the character, a feat that most Ahri cosplayers have failed. The shoot itself was too rushed, as I was hosting a drinking party in the same night, but we did end up with a few good shots, this one included.
 

@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography, Majoko Okino, Ruiko, Zone 00]
 ---
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-25/D3P_9256.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-25/D3P_9256.jpg %}
 
 This was my shortest shoot ever, with the first to last serious photo spanning only five minutes.
 

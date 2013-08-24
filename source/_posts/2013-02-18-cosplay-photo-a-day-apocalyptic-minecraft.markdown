@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography, Minecraft]
 ---
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-18/D3P_5552.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-18/D3P_5552.jpg %}
 
 Here is a dilemma when picking a photo to post when I am already late, there are three options available:
 

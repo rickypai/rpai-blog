@@ -6,9 +6,9 @@ comments: true
 categories: [photo a day, photography, travel, Tokyo, Japan]
 ---
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-14/D3P_4555.jpg 500 %}
+{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-14/D3P_4555.jpg %}
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-14/D3P_4600.jpg 500 %}
+{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-14/D3P_4600.jpg %}
 
 These images were taken in Ebisu, Tokyo shortly before Christmas.
 

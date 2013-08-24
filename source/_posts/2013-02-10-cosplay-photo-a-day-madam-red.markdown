@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography, Black Butler, Kuroshitsuji, Madam Red]
 ---
 
-{% img img-p http://static.rickypai.com/blog/2013/photo-a-day/2013-02-10/D3P_2194.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-10/D3P_2194.jpg %}
 
 In observation of Chinese New Year, more red cosplay. This one featuring Bur Lorie as Madam Red from Black Butler/Kuroshitsuji.
 

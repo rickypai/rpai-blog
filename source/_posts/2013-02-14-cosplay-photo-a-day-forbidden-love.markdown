@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography,VOCALOID, Megurine Luka, Hatsune Miku]
 ---
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-14/P1010115.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-14/P1010115.jpg %}
 
 In observation of Valentine’s Day, a loving couple from the Vocaloid song Magnet featuring Lina Lau as [Megurine Luka](/blog/categories/megurine-luka/) and Xytnn as [Hatsune Miku](/blog/categories/hatsune-miku/).
 
@@ -19,5 +19,5 @@ Lina and Xytnn are such a delight to work with, but I must also credit another f
 Anyways, I was going to post my favorite version of magnet, but I suppose it was deemed too scary and has since been taken off both NicoNico and Youtube. So something similar:
 
 <div class="video-container">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/oT1tqUoGggs" frameborder="0" allowfullscreen></iframe>  
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/oT1tqUoGggs" frameborder="0" allowfullscreen></iframe>
 </div>

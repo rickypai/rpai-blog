@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography, Sengoku BASARA, Sanada Yukimura]
 ---
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-26/D3P_7707.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-26/D3P_7707.jpg %}
 
 When shooting in the Olympic Park of Beijing, we encountered this Danish guy who was more than intrigued by our activities.
 

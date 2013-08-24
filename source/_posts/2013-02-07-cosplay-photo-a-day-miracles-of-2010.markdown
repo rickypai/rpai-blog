@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography, Holo, Spice and Wolf]
 ---
 
-{% img img-p http://static.rickypai.com/blog/2013/photo-a-day/2013-02-07/D3P_7015.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-07/D3P_7015.jpg %}
 
 While my [Photo a Day](/blog/categories/photo-a-day/) initiative has been more of an exercise of pairing thought with photographs, the [Cosplay Photo a Day](/blog/categories/cosplay-photo-a-day/) parallel series is more of the opposite of finding thought in existing photographs. Originally, I planned of just revisiting old shoots and writing about how each progressed and/or how the photos were processed. This mode has several flaws, however,  as most of the time I don't remember how they went, or there just wasn't enough to write about.
 

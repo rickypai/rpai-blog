@@ -23,6 +23,6 @@ Until next time, perhaps Kyushu (九州)!
 More photos of the temple:
 <!-- more -->
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-24/Japan_0186.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-24/Japan_0186.jpg %}
 
 {% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-24/Japan_0196.jpg 800 %}

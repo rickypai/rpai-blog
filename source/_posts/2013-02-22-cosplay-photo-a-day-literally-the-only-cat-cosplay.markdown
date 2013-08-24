@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography, Cheshire Cat, Pandora Hearts, Will of the Abyss]
 ---
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-22/D3P_6009.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-22/D3P_6009.jpg %}
 
 It puzzles me. I wonder if trends like this have persisted or it is only recently that I started noticing it, but once in a while there are special days like today, 2/22 as cat day, or 11/29 as good thigh day. During those days, the Asian social mediasphere goes crazy with themed postings of related images.
 

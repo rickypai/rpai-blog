@@ -6,7 +6,7 @@ comments: true
 categories: [photo a day, photography, Kaohsiung, Taiwan]
 ---
 
-{% img img-p http://static.rickypai.com/blog/2013/photo-a-day/2013-02-13/DSCF2900.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-13/DSCF2900.jpg %}
 
 I can really use some inner peace right now. Not in a particularly good state of mind today.
 
@@ -14,9 +14,9 @@ Visited a Buddhist temple for the morning, and took some photos of it.
 
 <!-- more -->
 
-{% img img-p http://static.rickypai.com/blog/2013/photo-a-day/2013-02-13/DSCF2901.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-13/DSCF2901.jpg %}
 
-{% img img-p http://static.rickypai.com/blog/2013/photo-a-day/2013-02-13/DSCF2906.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-13/DSCF2906.jpg %}
 
 {% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-13/DSCF2911.jpg 800 %}
 

@@ -6,7 +6,7 @@ comments: true
 categories: [cosplay photo a day, cosplay, cosplay photography, photography, Gendo Ikari, Neon Genesis Evangelion]
 ---
 
-{% img http://static.rickypai.com/blog/2013/photo-a-day/2013-02-16/DSCF4194.jpg 500 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-16/DSCF4194.jpg %}
 
 Visited a Taiwanese event Fancy Frontier 21, my first being Fancy Frontier 8 six years ago.
 

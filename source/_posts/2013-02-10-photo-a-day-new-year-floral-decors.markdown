@@ -12,4 +12,4 @@ A floral arrangement enthusiast, my mother bought a bunch of flowers to decorate
 
 Also, my sister and I wishes you all a happy Chinese New Year!!!
 
-{% img img-p http://static.rickypai.com/blog/2013/photo-a-day/2013-02-10/IMG_4874.jpg 480 %}
+{% img img-portrait http://static.rickypai.com/blog/2013/photo-a-day/2013-02-10/IMG_4874.jpg %}
