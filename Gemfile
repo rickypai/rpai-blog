@@ -10,9 +10,11 @@ group :development do
   gem 'haml', '~> 3.1.7'
   gem 'compass', '~> 0.12.2'
   gem 'rubypants', '~> 0.2.0'
-  gem 'rb-fsevent', '~> 0.9'
   gem 'stringex', '~> 1.4.0'
   gem 'liquid', '~> 2.3.0'
+  gem 'guard'
+  gem 'guard-livereload'
+  gem 'rb-fsevent', '~> 0.9'
 end
 
 gem 'jekyll-press'
