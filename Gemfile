@@ -17,8 +17,5 @@ group :development do
   gem 'rb-fsevent', '~> 0.9'
 end
 
-gem 'jekyll-press'
+# gem 'jekyll-press'
 gem 'sinatra', '~> 1.3.3'
-
-# gem "therubyracer"
-# gem "jekyll-press"
