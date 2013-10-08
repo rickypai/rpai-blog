@@ -1,0 +1,14 @@
+---
+layout: default
+single: true
+---
+
+<article>
+  {% include post/body.html %}
+</article>
+{% unless page.sharing == false %}
+  {% include post/sharing.html %}
+{% endunless %}
+{% if site.disqus_short_name and page.comments == true %}
+  {% include comments.html %}
+{% endif %}

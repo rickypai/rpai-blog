@@ -1,0 +1,42 @@
+{% if index %}
+  <h2>
+    {% if post.external-url %}
+      <a href="{{ post.external-url }}">
+    {% else %}
+      <a href="{{ root_url }}{{ post.url }}">
+    {% endif %}
+    {% if site.titlecase %}
+      {{ post.title | titlecase }}
+    {% else %}
+      {{ post.title }}
+    {% endif %}
+    </a>
+  </h2>
+  <div class="article-metadata">
+    {% include post/metadata.html %}
+  </div>
+  <div class="article-content">
+    {{ content | excerpt }}
+    {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
+    {% if excerpted == 'true' %}
+      <a href="{{ root_url }}{{ post.url }}" class="more-link">
+        continue reading
+        <i class="icon-caret-right"></i>
+      </a>
+    {% endif %}
+  </div>
+{% else %}
+  <h2>
+    {% if site.titlecase %}
+      {{ page.title | titlecase }}
+    {% else %}
+      {{ page.title }}
+    {% endif %}
+  </h2>
+  <div class="article-metadata">
+    {% include post/metadata.html %}
+  </div>
+  <div class="article-content">
+    {{ content }}
+  </div>
+{% endif %}

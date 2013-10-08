@@ -1,0 +1,14 @@
+<span class="date">
+  <i class="icon-time"></i>&nbsp;
+  {% include post/date.html %}{{ time }}
+</span>
+<span class="tags">
+  <i class="icon-tags"></i>
+  {% include post/categories.html %}
+</span>
+{% if site.disqus_short_name and post.comments == true and site.disqus_show_comment_count == true %}
+  <span class="comments">
+    <i class="icon-comments"></i>
+    <a href="{{ root_url }}{{ post.url }}#disqus_thread">Comments</a>
+  </span>
+{% endif %}
